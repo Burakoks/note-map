@@ -16,10 +16,6 @@ NoteMap, HTML, CSS, JavaScript ve Leaflet kullanarak geliştirilmiş bir Gezici 
 - Kullanıcı dostu ve modern arayüz
 - Mobil uyumlu
 
-## Canlı Demo 🌐
-
-Uygulamanın canlı versiyonuna buradan ulaşabilirsiniz:  
-[NoteMap Live Demo](https://note-map-murex.vercel.app/)
 
 ## Ekran Görüntüsü 🎥
 
